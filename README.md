@@ -4,12 +4,12 @@ Generate a simple QR code in Laravel 8
 
 1-Clone the repository
 ```
-https://github.com/aymensmida/Larevel-8-Vue-Js-Crud-App.git
+https://github.com/aymensmida/Laravel-Qr-Code.git
 ```
 
 2- cd into the folder with this command:
 ```
-cd Laravel-Crud-App
+cd Laravel-Qr-Code
 ```
 
 3- composer install
