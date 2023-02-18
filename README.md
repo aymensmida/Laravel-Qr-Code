@@ -4,7 +4,7 @@ Generate a simple QR code in Laravel 8
 
 1-Clone the repository
 ```
-https://github.com/aymensmida/Laravel-Qr-Code.git
+git clone https://github.com/aymensmida/Laravel-Qr-Code.git
 ```
 
 2- cd into the folder with this command:
